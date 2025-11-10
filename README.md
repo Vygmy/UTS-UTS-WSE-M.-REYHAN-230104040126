@@ -3,7 +3,7 @@
 **Nama:** M. Reyhan  
 **Email:** mraihan.app1@gmail.com  
 **No. HP:** +62895366683512  
-**Kampus/Jurusan:** (Isi sesuai jurusan dan kampus kamu)
+**Kampus/Jurusan:** UIN ANTASARI BANJARMASIN JURUSAN TEKNOLOGI INFORMASI
 
 ---
 
@@ -235,3 +235,4 @@ Dilarang menggunakan atau mendistribusikan ulang untuk tujuan komersial tanpa iz
 ---
 
 **© 2025 – M. Reyhan**
+
